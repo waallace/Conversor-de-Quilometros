@@ -19,7 +19,7 @@ Você pode cria outros tipos de conversores para aprimorar seus aprendizados e c
 ### Dawnload está em -> MoedaApp.jar / QuilometrosApp.jar "LÁ EM CIMA"
 https://user-images.githubusercontent.com/122636741/225040886-9ae76297-1238-4347-b265-4b2fb21a1f65.mp4
 
-# Tecnologia Utilizado pafra criação do programa.
+# Tecnologia Utilizado para criação do programa.
 - Linguaguem: Java 8
 - IDE: Eclipse
 - Window Builder
